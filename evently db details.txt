@@ -1,0 +1,10 @@
+Evently project
+
+Mongodb username password
+username: eventlyproj
+password: 12312300
+
+
+Clerk signing secrate
+
+whsec_K54IYhs0gR7OxZ3mWBlAv0LCGo2scXGP
